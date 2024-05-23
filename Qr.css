@@ -1,0 +1,21 @@
+*{
+    background-color: #00a1d1;
+    font-family: Arial;
+}
+
+.container{
+    margin-left: 40%;
+    margin-top: 20%;
+    width: 800px;
+    height: 800px;
+    
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    margin-top: 50px;
+}
+p{
+    color: aliceblue;
+}
